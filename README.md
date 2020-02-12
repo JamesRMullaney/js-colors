@@ -1,5 +1,5 @@
 # js-colors
-
+#### James Mullaney
 > JavaScript is a great language for writing and testing quick apps with user interaction
 
 ## Links
